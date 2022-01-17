@@ -1,7 +1,7 @@
 # Ola, Meu Nome italo ✋
 
 ### Sou um Homem em busca dos seus sonhos. Juntos podemos ir mais alem
-- 🏡 Procura de movo trabalho 
+- 🏡 Procura de novo trabalho 
 - 🌳 Em busca de conhecimento
 - 🧪 em busca de novas experiencia
 - 🧭 Explorando explorando novos recuçoes da programaçao
