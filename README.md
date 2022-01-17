@@ -3,8 +3,8 @@
 ### Sou um Homem em busca dos seus sonhos. Juntos podemos ir mais alem
 - 🏡 Procura de novo trabalho 
 - 🌳 Em busca de conhecimento
-- 🧪 em busca de novas experiencia
-- 🧭 Explorando explorando novos recuçoes da programaçao
+- 🧪 Em busca de novas experiencia
+- 🧭 Explorando novos recuçoes da programaçao
 - 👥 Elaborando metas para 2022
 
 - ✨ Programaçao é o Futuro !!!
