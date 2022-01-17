@@ -12,7 +12,7 @@
 <br /><br />
 
 ## Filosofia
->## por queles que resolvem bugs sao mais fortes
+>## aqueles que resolvem bugs sao mais fortes
 
 <br /><br />
 ## Alguns meios de conexão com a minha pessoinha
