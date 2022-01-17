@@ -33,4 +33,3 @@
 ![Markdown PHP](PHP.png) 
 ![Markdown Rails](rails.png) 
 # Italo_ortografia
-"# Italo_ortografia"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:MasterPCFull/Italo_ortografia.git git push -u origin main
