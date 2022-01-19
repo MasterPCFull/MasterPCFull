@@ -4,7 +4,7 @@
 - 🏡 Procura de novo trabalho 
 - 🌳 Em busca de conhecimento
 - 🧪 Em busca de novas experiencia
-- 🧭 Explorando novos recuçoes da programaçao
+- 🧭 Explorando novos recurso da programaçao
 - 👥 Elaborando metas para 2022
 
 - ✨ Programaçao é o Futuro !!!
